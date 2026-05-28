@@ -147,17 +147,12 @@ private searchUrls: string[] = [
 
 ---
 
-## 📄 开源协议
-
-本项目采用 MIT 协议，详见 [LICENSE](LICENSE) 文件。
-
----
 
 ## 📧 联系方式
 
-- 项目维护者：影视链开发团队
+- 项目维护者：影视链-xm
 - 问题反馈：请在 GitHub Issues 提交
-- 邮箱：support@video-parser.com
+
 
 ---
 
