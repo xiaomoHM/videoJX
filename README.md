@@ -1,4 +1,4 @@
-# 影视链 - 视频解析播放器<img width="48" height="48" alt="icon" src="https://github.com/user-attachments/assets/d784c5fc-63f0-4102-ab40-90a332306a07" />
+# 影视链 - 视频解析播放器                      <img width="48" height="48" alt="icon" src="https://github.com/user-attachments/assets/d784c5fc-63f0-4102-ab40-90a332306a07" />
 
 ## 📱 项目简介
 
