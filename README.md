@@ -54,25 +54,6 @@
 - HarmonyOS SDK API 12+
 - 真机或模拟器（API 12+）
 
-### 安装步骤
-
-1. **克隆项目**
-```bash
-git clone https://github.com/your-repo/video-parser.git
-```
-
-2. **打开项目**
-   - 启动 DevEco Studio
-   - 选择 `Open Project`，打开项目根目录
-
-3. **编译运行**
-   - 连接 HarmonyOS 设备或启动模拟器
-   - 点击 `Run > Run 'entry'` 或按 `Shift + F10`
-
-4. **安装应用**
-   - 编译成功后，应用会自动安装到设备
-
----
 
 ## 📖 使用指南
 
