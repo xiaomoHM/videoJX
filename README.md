@@ -150,9 +150,9 @@ private searchUrls: string[] = [
 ---
 UI界面
 
-<img width="1316" height="2832" alt="1" src="https://github.com/user-attachments/assets/0b855a04-f7c0-46e5-8164-c8d6e42caca0" />
-<img width="1316" height="2832" alt="2" src="https://github.com/user-attachments/assets/b3fe7c64-570f-4c61-b241-f006925a0a70" />
-<img width="1316" height="2832" alt="3" src="https://github.com/user-attachments/assets/8f58988d-cbdf-4552-a008-77bf8843a799" />
+<img width="438" height="944" alt="1" src="https://github.com/user-attachments/assets/0b855a04-f7c0-46e5-8164-c8d6e42caca0" />
+<img width="438" height="944" alt="2" src="https://github.com/user-attachments/assets/b3fe7c64-570f-4c61-b241-f006925a0a70" />
+<img width="438" height="944" alt="3" src="https://github.com/user-attachments/assets/8f58988d-cbdf-4552-a008-77bf8843a799" />
 
 
 
