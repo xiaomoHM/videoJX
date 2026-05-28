@@ -151,7 +151,7 @@ private searchUrls: string[] = [
 ## 📧 联系方式
 
 - 项目维护者：影视链-xm
-- 问题反馈：请在 GitHub Issues 提交
+- 问题反馈：请在 GitHub Issues 提交 https://github.com/xiaomoHM/videoJX/issues/new
 
 
 ---
