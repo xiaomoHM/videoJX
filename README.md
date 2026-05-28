@@ -1,8 +1,8 @@
-# 影视链 - 视频解析播放器
+# 影视链 - 视频解析播放器<img width="48" height="48" alt="icon" src="https://github.com/user-attachments/assets/d784c5fc-63f0-4102-ab40-90a332306a07" />
 
 ## 📱 项目简介
 
-**影视链** 是一款基于 HarmonyOS Next 开发的视频解析播放器应用。它通过集成多个第三方解析接口，帮助用户突破各大视频网站的限制，实现一站式搜索、解析和播放全网视频内容。<img width="512" height="512" alt="icon" src="https://github.com/user-attachments/assets/d784c5fc-63f0-4102-ab40-90a332306a07" />
+**影视链** 是一款基于 HarmonyOS Next 开发的视频解析播放器应用。它通过集成多个第三方解析接口，帮助用户突破各大视频网站的限制，实现一站式搜索、解析和播放全网视频内容。
 
 
 ### ✨ 核心功能
